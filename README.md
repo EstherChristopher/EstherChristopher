@@ -14,5 +14,5 @@ I'm a Front-end Developer, Technical writer, and open source advocate who contri
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Esther's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Esther's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=estherchristopher&show_icons=true&include_all_commits=true&hide_border=true" alt="Esther's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estherchristopher&langs_count=8&layout=compact&hide_border=true" alt="Esther's GitHub stats" /> |
 | ------------- | ------------- |
