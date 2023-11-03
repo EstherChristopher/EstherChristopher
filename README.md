@@ -1,4 +1,4 @@
-# Hello there, Welcome 👋🏾 Call me Nana👩🏻‍💻
+# Hello there👋🏾 Call me Nana👩🏻‍💻
 **Here's a quick summary about me**:
 - 👩🏻‍💻 I'm a front-end developer. I work with Vue.js and TypeScript to build interactive webpages. I also share programming concepts for [technical publications](https://linktr.ee/estherchristopher) and on my [blog](https://estherchris.hashnode.dev/)
 - 💡 Fun fact: I finished a one-year diploma Frontend engineering program at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
